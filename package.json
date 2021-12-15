@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BianQt/auth-api.git"
+    "url": "git+https://github.com/Mohammad-Haroun-97/auth-api.git"
   },
   "keywords": [],
   "author": "",
@@ -37,7 +37,7 @@
     "morgan": "^1.10.0"
   },
   "bugs": {
-    "url": "https://github.com/BianQt/auth-api/issues"
+    "url": "https://github.com/Mohammad-Haroun-97/auth-api.git"
   },
-  "homepage": "https://github.com/BianQt/auth-api#readme"
+  "homepage": "https://github.com/Mohammad-Haroun-97/auth-api.git"
 }
