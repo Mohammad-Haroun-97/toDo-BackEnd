@@ -30,7 +30,7 @@ app.use('/todo', taskRoutes);
 
 
 app. get('/',(req,res)=>{
-  res.send('<h1>Server is Up & Running!</h1>');
+  res.send('To Do BackEnd');
 })
 
 
